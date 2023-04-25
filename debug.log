@@ -1,0 +1,38 @@
+INFO 2023-04-25 12:10:35,217 Watching for file changes with StatReloader
+INFO 2023-04-25 12:10:37,797 "GET / HTTP/1.1" 302 0
+INFO 2023-04-25 12:10:37,883 "GET /accounts/login/?next=/ HTTP/1.1" 200 3989
+INFO 2023-04-25 12:10:37,987 "GET /static/plugins/toastr/toastr.min.css HTTP/1.1" 200 6454
+INFO 2023-04-25 12:10:37,987 "GET /static/dist/css/login-page.css HTTP/1.1" 200 9064
+INFO 2023-04-25 12:10:37,989 "GET /static/plugins/fontawesome-free/css/all.min.css HTTP/1.1" 200 58582
+INFO 2023-04-25 12:10:37,994 "GET /static/plugins/jquery/jquery.min.js HTTP/1.1" 200 88147
+INFO 2023-04-25 12:10:38,000 "GET /static/plugins/overlayScrollbars/css/OverlayScrollbars.min.css HTTP/1.1" 200 19736
+INFO 2023-04-25 12:10:38,005 "GET /static/plugins/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 80704
+INFO 2023-04-25 12:10:38,007 "GET /static/dist/css/adminlte.min.css HTTP/1.1" 200 686718
+INFO 2023-04-25 12:10:38,008 "GET /static/dist/js/jquery.formset.js HTTP/1.1" 200 13881
+INFO 2023-04-25 12:10:38,010 "GET /static/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js HTTP/1.1" 200 42395
+INFO 2023-04-25 12:10:38,015 "GET /static/plugins/toastr/toastr.min.js HTTP/1.1" 200 5253
+INFO 2023-04-25 12:10:38,016 "GET /static/dist/js/adminlte.js HTTP/1.1" 200 59416
+INFO 2023-04-25 12:10:38,033 "GET /static/dist/js/demo.js HTTP/1.1" 200 13042
+INFO 2023-04-25 12:10:39,682 "GET /static/dist/img/login.png HTTP/1.1" 200 445475
+INFO 2023-04-25 12:10:39,851 "GET /static/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 79444
+WARNING 2023-04-25 12:10:39,944 Not Found: /favicon.ico
+WARNING 2023-04-25 12:10:39,944 "GET /favicon.ico HTTP/1.1" 404 6202
+INFO 2023-04-25 12:11:19,419 "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2023-04-25 12:11:19,450 "GET / HTTP/1.1" 200 9298
+INFO 2023-04-25 12:11:19,551 "GET /static/plugins/Datatables/datatables.min.css HTTP/1.1" 200 25807
+INFO 2023-04-25 12:11:19,568 "GET /static/plugins/Datatables/datatables.min.js HTTP/1.1" 200 2042927
+INFO 2023-04-25 12:11:19,640 "GET /static/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 HTTP/1.1" 200 13584
+INFO 2023-04-25 12:11:35,558 "GET /student/list HTTP/1.1" 200 9954
+WARNING 2023-04-25 12:11:35,931 Not Found: /favicon.ico
+INFO 2023-04-25 12:11:38,345 "GET /staff/list/ HTTP/1.1" 200 9695
+WARNING 2023-04-25 12:11:38,766 Not Found: /favicon.ico
+INFO 2023-04-25 12:11:41,165 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-04-25 12:11:42,945 "GET /staff/list/ HTTP/1.1" 200 9695
+INFO 2023-04-25 12:11:43,855 "GET /finance/list/ HTTP/1.1" 200 10355
+INFO 2023-04-25 12:11:46,212 "GET /result/create/ HTTP/1.1" 200 10923
+INFO 2023-04-25 12:11:48,252 "GET /result/edit-results/ HTTP/1.1" 200 12069
+WARNING 2023-04-25 12:11:48,567 Not Found: /favicon.ico
+INFO 2023-04-25 12:11:49,233 "GET /result/view/all HTTP/1.1" 200 10295
+INFO 2023-04-25 12:11:52,592 "GET /site-config HTTP/1.1" 200 10873
+INFO 2023-04-25 12:11:56,133 "GET /student/list HTTP/1.1" 200 9954
+INFO 2023-04-25 12:12:09,560 "GET /student/list HTTP/1.1" 200 9954
